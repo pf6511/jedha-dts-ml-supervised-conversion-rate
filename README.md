@@ -8,7 +8,7 @@
     * EDA
     * développer plusieurs modèles afin d'améliorer le f1-score (c'est la métrique à utiliser pour mesurer la performance des modèles)
     * appliquer le meilleur modèle au fichier data_test.csv
-    * analsyser les paramètres du modèles et proposer des pistes d'amélioration
+    * analyser les paramètres du modèles et proposer des pistes d'amélioration
 
 
 
